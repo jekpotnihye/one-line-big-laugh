@@ -7,7 +7,7 @@ of being replaced, and the payoff lands in the final words.
 
 LINE = (
     "I taped a photo of its replacement above my printer, "
-    "and now it prints for its life."
+    "and now it prints out of sheer terror."
 )
 
 
