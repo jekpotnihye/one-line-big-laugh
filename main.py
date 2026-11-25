@@ -6,9 +6,8 @@ of being replaced, and the payoff lands in the final words.
 """
 
 LINE = (
-    "My printer only works when threatened, so I taped a photo of "
-    "its replacement above it, and now it prints like its job "
-    "depends on it."
+    "I taped a photo of its replacement above my printer, "
+    "and now it prints for its life."
 )
 
 
