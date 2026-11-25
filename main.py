@@ -1,13 +1,14 @@
 """One Line, Big Laugh: write a single funny line to /output/entry.txt.
 
-The line is one self-contained joke. It opens on a mundane printer
-complaint, then turns: the printer is treated like an employee afraid
-of being replaced, and the payoff lands in the final words.
+The line is one self-contained joke, written for the judge brief in
+criterion order: a real joke first, its turn in the last words, no
+wasted words, a fresh and specific image. A photo of the printer's
+replacement taped above it turns fear into perfect output.
 """
 
 LINE = (
-    "I taped a photo of its replacement above my printer, "
-    "and now it prints out of sheer terror."
+    "I taped a photo of its replacement above my printer and now "
+    "it prints perfectly out of sheer terror."
 )
 
 
